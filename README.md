@@ -4,7 +4,7 @@
 - 🔭 Hoje eu trabalho como Gerente de Projetos na DLM Soluções em Tecnologia
 - 📫 Estudo Sistemas para a Internet na FIAP 
 - 🌱 Estou aprendendo Desenvolvimento Backend na Growcode Academy 
-- ⚡ Construí o meu primeiro projeto <i>pro bono</i> o CAMISA 10 FC (meu xodó) 😁
+- ⚡ Construí o meu primeiro projeto <i>pro bono</i>: O <strong>CAMISA 10 FC</strong> (meu xodó) 😁
 
 
 <div>
