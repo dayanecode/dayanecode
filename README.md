@@ -1,10 +1,8 @@
 ### Olá! Eu sou a Dayane Ramos 👋
-
-
+- 📫 Formada em Sistemas para a Internet pela Faculdade de Informática e Administração Paulista - FIAP | 2023
+- 🌱 Formada em Desenvolvimento Backend pela Growcode Academy | 2023
 - 🔭 Hoje eu trabalho como Gerente de Projetos na DLM Soluções em Tecnologia
-- 📫 Estudo Sistemas para a Internet na FIAP 
-- 🌱 Estou aprendendo Desenvolvimento Backend na Growcode Academy 
-- ⚡ Construí o meu primeiro projeto <i>pro bono</i>: O <strong>CAMISA 10 FC</strong> (meu xodó) 😁
+
 
 
 <div>
