@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Dayane Ramos 👋
+- 📝 Cursando React do zero à maestria pela Udemy | Prof. Matheus Battist (Hora de Codar)
 - 📫 Formada em Sistemas para a Internet pela Faculdade de Informática e Administração Paulista - FIAP | 2023
 - 🌱 Formada em Desenvolvimento Backend pela Growcode Academy | 2023
-- 🔭 Hoje eu trabalho como Gerente de Projetos na DLM Soluções em Tecnologia
-
+- 🔭 Trabalhando como Gerente de Projetos na DLM Soluções em Tecnologia
 
 
 <div>
